@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi, I'm Raj Dangi 👋
-### Systems Engineer | Intelligent Agent Architect | CS @ University of Toledo
+### Student @ UToledo | CS Major | I like to make stuff, play with stuff, and break stuff until I understand it.
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-CHASING_CONVERGENCE-00F0FF?style=for-the-badge&labelColor=020205" />
-  <img src="https://img.shields.io/badge/FOCUS-OPERATING_SYSTEMS-9D4EDD?style=for-the-badge&labelColor=020205" />
+  <img src="https://img.shields.io/badge/FOCUS-AGI-9D4EDD?style=for-the-badge&labelColor=020205" />
   <img src="https://img.shields.io/badge/MISSION-RELIABLE_INTELLIGENCE-FF003C?style=for-the-badge&labelColor=020205" />
 </p>
 
