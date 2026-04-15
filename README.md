@@ -56,6 +56,15 @@ A ground-up implementation of the GPT-2 architecture using PyTorch primitives. T
 
 ---
 
+### ✍️ Technical Writing
+
+#### 📄 [The Mastery Illusion](https://medium.com/@rach.dev0731/we-know-it-works-we-dont-know-why-27ea3f4fbcae)
+**"Science and engineering are entering an era where the power to do outpaces the knowledge of why."**
+
+An exploration into the "permanent divergence" between capability and comprehension in modern AI and systems engineering. I discuss the shift from mechanistic understanding to instrumental control and the epistemic fragility of building systems we can no longer reconstruct from first principles.
+
+---
+
 #### 👀 [takeApeek](https://github.com/rajdangi31/takeApeek) — Cinematic Social Discovery
 **"Real-time social discovery built with a Glass & Glow design system."**
 
@@ -111,6 +120,7 @@ I am currently seeking **Summer 2026 Internship** opportunities focusing on **ag
 * [Portfolio](https://philosrach.com/)
 * [Email](mailto:rach.dev0731@gmail.com)
 * [X (Twitter)](https://x.com/philosrach)
+* [Medium](https://medium.com/@rach.dev0731)
 
 <br />
 
